@@ -1,160 +1,43 @@
-# Criando uma Rede Social
+# Definição do produto
 
-## Preâmbulo
+A Palommers é uma rede social para as alunas da Lab em São Paulo de ambas gerações, tanto as colegas de turma da mentora Paloma quanto as suas alunas.
 
-Instagram, Snapchat, Twitter, Facebook, Twitch, Linkedin, etc. As redes sociais
-invadiram nossas vidas. Nós as amamos ou odiamos, e muitas pessoas não conseguem
-viver sem elas.
+Queremos poder celebrar essa mulher forte que nos inspira em nossa transição de carreira e também poder retribuir um pouquinho de seu afeto e cuidado por nós, enquanto, em breve, trocamos dicas de programação, looks e piadas (claro).
 
-Há redes sociais de todo tipo para todos os tipos de interesse. Por exemplo, em
-uma rodada de financiamento com investidores, foi apresentada uma rede social
-para químicos onde os usuários podem publicar artigos a respeito de suas
-pesquisas, comentar os artigos de seus colegas e filtrar artigos de acordo com
-determinadas tags ou popularidade, mais recente ou mais comentado.
+Os elementos mais básicos são como os das redes sociais do cotidiano "desconectado" - poder se expressar. Por isso, era necessário que o usuário pudesse enviar postagens (as editando e deletando, afinal de contas isso aqui é uma rede social virtual e não da vida real, né? Tem que ter uma vantagem) e em uma posterior versão, conectar-se no feed com outras Palommers.
 
-## Introdução
+Descobrimos as necessidades através de pesquisas feitas com formulários do Google entre alunas da geração atual e anterior e conversas na sala de aula e grupos de WPP. Assim, esperamos poder proporcionar um ambiente onde podemos falar sobre a Paloma, brincarmos, trocarmos e recebermos dicas de estudo, looks e nos sentirmos seguras. Essas eram as principais pedidas.
 
-Uma empreendedora nos encarregou de criar uma rede social. Não nos deu muitos
-detalhes sobre que tipo de rede social ela quer, apenas nos solicita que a
-façamos o melhor que pudermos para que seja lançada logo no mercado. Ela nos deu certos temas onde gostaria de investir:
+As principais funcionalidades dessa primeira versão é poder postar, editar e deletar recadinhos para a Paloma e saber um pouquinho mais sobre ela. A próxima versão incluíria vídeos de mentoria e poder se conectar com outros Palommers para se auxiliarem em dúvidas dos projetos (e com a própria Diva Acessível, é claro).
 
-* Alimentação
-* Feminismo
-* Educação
-* Saúde
-* Meio ambiente
-* Fãs da Palomita
+Foram com muitos testes, tentativas e erros que a rede saiu em sua primeira versão e deu para perceber o que daria para ser entregue dentro do tempo e o que não seria, assim como adaptações e afins. Para conferir, só mexendo mesmo a fim de ver se a ponte continua de pé.
 
-Nosso time escolheu Fãs da Palomita, segundo pesquisa de mercado.
+Se você tem vergonha de declarar seu amor para a Paloma ou pedir para tirar dúvidas, a rede é para você. Gostou? Compartilha e nos envie feedback para a próxima versão! :)
 
-## Objetivos de Aprendizagem
+# Personas
+(incluir aqui)
 
-O objetivo principal de aprendizagem deste projeto é desenvolver uma aplicação
-web responsiva onde possamos **ler e gravar dados.**
+# Protótipo
+*[Protótipo da primeira ideia de uma versão mobile](https://marvelapp.com/8b74936/screen/55637113)
 
-Em outras palavras, aprenderá a
+# Pesquisas | Entrevistas com usuários | Testes
+Fizemos uma pesquisa com alunas de ambas as gerações através do serviço de formulário do Google, o que nos ajudou a perceber que não éramos as únicas Palommers e também a entender o que buscavam na rede. 
+(incluir fotos?)
+Também conversamos na sala sobre o que gostariam de ver na rede e compartilhamos do processo do desenvolvimento da mesma.
+Os testes foram feitos na sala de aula, com o público alvo, e o feedback e ajuda foram fundamentais para que a gente pudesse realizar o projeto. 
 
-* Aplicar e aprofundar tudo o que aprendeu no projeto anterior.
-* Entender as necessidades dos usuários para quem será desenvolvido o produto e
-  cujas necessidades ajudará a resolver.
-* Colocar à prova sua criatividade para ter ideias que levem à uma solução
-  original e valiosa para o problema.
-* Contar com o apoio de suas colegas, trabalhando em grupo e buscando _feedback_
-  constante.
-* Definir como criar sua própria estrutura de dados e de que forma serão
-  exibidos no produto.
+# Experimente aqui
+*[Hospedado no Firebase](https://rede-social-palomita.firebaseapp.com/)
 
-## Considerações Gerais
+# Como utilizar
+Basta criar o seu perfil e/ou logar e então começar a espalhar o seu amor pela nossa Diva Acessível! É possível utilizar qualquer e-mail para a criação do seu perfil ou fazer a autenticação direto pelo serviço do Google (Gmail).
 
-Este projeto deverá ser desenvolvido em trios.
-
-* A lógica do projeto deverá ser implementada totalmente em JavaScript (ES6+),
-  HTML e CSS.
-* Deverá ser utilizada a biblioteca jQuery para manipulação de DOM.
-* Deverá ser utilizado o _framework_ Bootstrap v4 para elementos de leiaute e
-  responsividade.
-* Todo o código deverá ser escrito seguindo o [guia de estilos da Laboratória](https://github.com/JulianaAmoasei/js-style-guide/blob/pt-translation/README-PT.md).
-
-
-## Parte obrigatória
-
-Este projeto conta com uma estrutura de arquivos de pastas já definida, porém
-podem modificá-la de acordo como preferirem organizar a estrutura de seus
-projetos.
-
-### Definição do produto
-
-Para definição de nosso produto, fizemos entrevistas com os usuários para ver o sucesso que faria o tema Fãs da Palomita e para colher detalhes sobre o conteúdo da rede.
-
-![Formulário](formulario.PNG)
-![Resultado](resultado1.PNG)
-![Resultado](resultado2.PNG)
-
-O resultado foi muito positivo como é possível ver nas pesquisas, pois eles gostariam de saber mais sobre sua vida, seus costumes e curiosidades. É uma rede social voltada para pessoas que admiram a Paloma e querem estar mais próximos dessa diva acessível.
-
-Planejamos incluir tópicos que abordam fatos interessantes ao fã, para que ele tenha vontade própria de entrar na rede social diariamente e divulgue a ideia para seus amigos.
-
-Essa rede irá conter fotos da Paloma em seu dia a dia, 50 curiosidades sobre sua vida e abaixo de cada post, os fãs poderão comentar e curtir.
-
-Inicialmente, foram feitos testes com um protótipo de baixa fidelidade com alguns possíveis usuários. Após quase concluído o projeto, efetuamos testes com alguns usuários pelo hosting, e em sua maioria o teste foi satisfatório, sendo intuitivo e de fácil utilização sem necessidade de instruções.
-
-[Protótipo](https://marvelapp.com/b6bce0e)
-[Hosting](https://rede-social-palomita.firebaseapp.com)
-
-Levamos em consideração as histórias de usuários para montar nosso protótipo de baixa fidelidade, e assim, desenvolver nosso projeto da melhor maneira possível de acordo com o planejamento acordado em primeiro momento.
-
-É possível visualizar todo o planejamento no Trello: https://trello.com/b/4jCTdCzx/rede-social
-
-### HSE
-
-Trabalhar em equipe é um grande desafio porque coordenar-se não é uma tarefa
-fácil, e fica ainda mais difícil entre três pessoas do que entre duas. Trabalhe
-para ser entendida pelo grupo, facilitando sempre o diálogo dentro do squad.
-
-Façam o planejamento enumerando as tarefas e as distribuindo, considerando os
-recursos, as habilidades e o tempo que dispõe. O planejamento deve permitir o
-avanço de diferentes partes do projeto de forma paralela, e contar com algum
-recurso visual onde possam ver em que estão trabalhando suas companheiras.
-
-Entregue seu trabalho a sua equipe a tempo e colabore com o objetivo final do
-projeto, o que pode incluir ajudar as demais da equipe com suas pendências, para
-entregar uma rede social de qualidade.
-
-** A divisão do trabalho deve permitir que toda a equipe pratique a aprendizagem
-de todas as habilidades esperadas. Não dividam o trabalho como em uma fábrica.**
-
-Esperamos que preze e escute os comentários e críticas das demais, identificando
-os aspectos que sirvam para seu crescimento. Dê sua opinião sempre de maneira
-construtiva, fundamentada e coerente, com o propósito de ajudar suas
-companheiras. Estes comentários devem ser feitos de maneira honesta, empática e
-imediata.
-
-
-
-## Checklist
-
-### General
-
-* [x] O produto final segue o que foi especificado no desenho.
-
-### README.md
-
-* [x] Definição do produto
-* [x] Resumo das entrevistas com usuários
-* [x] Link/imagens dos protótipos de baixa fidelidade
-* [x] Conclusões dos testes de usuário feitos no HTML
-
-### Criação de conta (sign up)
-
-* [x] Permite criar conta.
-* [x] Valida email.
-* [x] Valida senha.
-* [x] Mostra mensagens de erro.
-
-### Início de sessão (sign in)
-
-* [x] Permite iniciar sessão.
-* [x] Valida email.
-* [x] Valida senha.
-* [x] Mostra mensagens de erro.
-
-### Timeline
-
-* [x] Mostra a timeline.
-* [x] Permite fazer novas publicações.
-* [x] Permite apagar publicações.
-* [x] Pede confirmação antes de apagar publicações.
-* [x] Permite editar publicação no mesmo lugar (in place).
-* [x] Permite filtrar publicações por público/privado.
-* [x] Permite marcar publicações como _gostei_ (like, coração, estrela, etc).
-* [x] Permite ver quantos likes, estrelas, corações (ou o que for utilizar) uma
-  publicação recebeu.
-
-### Hacker Edition
-
-* [ ] Permite adicionar amigos.
-* [ ] Permite deletar amigos.
-* [ ] Permite compartilhamento de publicações.
-* [ ] Permite comentar ou responder uma publicação.
-* [ ] Permite editar perfil.
-* [ ] Permite ver perfil ou timeline.
+# Considerações para as próximas versões
+* [ ] Permitir que os Palommers se adicionem e compartilhem publicações de amigos
+* [ ]  Incluir outras reações
+* [ ] Incluir área de mentorias
+* [ ] Incluir área de looks
+* [ ] Incluir área de dicas de programação
+* [ ] Incluir área de lista de amigos
+* [ ] Incluir área de perfis, com mais opções de informações dos usuários
+* [ ] Permitir que os Palommers comentem em publicações
