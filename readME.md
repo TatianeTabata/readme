@@ -53,7 +53,7 @@ Fizemos uma pesquisa com alunas de ambas as gerações através do serviço de f
 
 Também conversamos na sala sobre o que gostariam de ver na rede e compartilhamos do processo do desenvolvimento da mesma.
 
-Os testes foram feitos na sala de aula, com o público alvo, e o feedback e ajuda foram fundamentais para que a gente pudesse realizar o projeto. 
+Os testes foram feitos na sala de aula, com o público alvo, e o feedback e ajuda foram fundamentais para que a gente pudesse realizar o projeto e escolher o nome da nossa rede.
 
 
 
