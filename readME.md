@@ -45,8 +45,8 @@ Se você tem vergonha de declarar seu amor para a Paloma ou pedir para tirar dú
 # Pesquisas | Entrevistas com usuários | Testes
 
 Fizemos uma pesquisa com alunas de ambas as gerações através do serviço de formulário do Google, o que nos ajudou a perceber que não éramos as únicas Palommers e também a entender o que buscavam na rede. 
-![Formulário de pesquisa](formulario.png)
-![Resultados](resultado1.png, resultado2.png) 
+![Formulário de pesquisa](formulario.PNG)
+![Resultados](resultado1.PNG, resultado2.PNG) 
 
 Também conversamos na sala sobre o que gostariam de ver na rede e compartilhamos do processo do desenvolvimento da mesma.
 
