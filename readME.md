@@ -32,7 +32,7 @@ Se você tem vergonha de declarar seu amor para a Paloma ou pedir para tirar dú
 
 # Personas
 
-![Personas](https://github.com/TatianeTabata/readme/blob/master/Persona_Rede_Social.pdf)
+![Personas](Persona_Rede_Social.pdf)
 
 
 
