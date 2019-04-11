@@ -16,9 +16,16 @@ determinadas tags ou popularidade, mais recente ou mais comentado.
 
 Uma empreendedora nos encarregou de criar uma rede social. Não nos deu muitos
 detalhes sobre que tipo de rede social ela quer, apenas nos solicita que a
-façamos o melhor que pudermos para que seja lançada logo no mercado. Ela solicitou que o tema fosse sobre:
+façamos o melhor que pudermos para que seja lançada logo no mercado. Ela nos deu certos temas onde gostaria de investir:
 
-* FÃS DA PALOMITA
+* Alimentação
+* Feminismo
+* Educação
+* Saúde
+* Meio ambiente
+* Fãs da Palomita
+
+Nosso time escolheu Fãs da Palomita, segundo pesquisa de mercado.
 
 ## Objetivos de Aprendizagem
 
@@ -60,16 +67,24 @@ projetos.
 Para definição de nosso produto, fizemos entrevistas com os usuários para ver o sucesso que faria o tema Fãs da Palomita e para colher detalhes sobre o conteúdo da rede.
 
 ![Formulário](formulario.PNG)
+![Resultado](resultado1.PNG)
+![Resultado](resultado2.PNG)
 
-O resultado foi muito positivo, pois eles gostariam de saber mais sobre sua vida, seus costumes e curiosidades.
+O resultado foi muito positivo como é possível ver nas pesquisas, pois eles gostariam de saber mais sobre sua vida, seus costumes e curiosidades. É uma rede social voltada para pessoas que admiram a Paloma e querem estar mais próximo dessa diva acessível.
 
-No arquivo `README.md` você deverá documentar o processo: o que descobriu sobre
-o mercado de redes sociais, as necessidades dos usuários, como chegou à
-definição final de seu produto. Compartilhe fotos e registros dos esboços,
-questionários, entrevistas, etc. É importante detalhar:
+Devem ser incluídos tópicos que abordam fatos interessantes ao fã, para que ele tenha vontade própria de entrar na rede social diariamente e divulgue a ideia para seus amigos.
+
+Essa rede irá conter fotos da Paloma em seu dia a dia, 50 curiosidades sobre sua vida e abaixo de cada post, os fãs poderão comentar e curtir.
+
+Inicialmente, foram feitos testes com um protótipo de baixa fidelidade com alguns possíveis usuários. 
+
+[Protótipo](https://marvelapp.com/b6bce0e)
+
 
 * Quais os elementos básicos de uma rede social
+
 * Quem são os principais usuários do produto
+
 * Como descobriu as necessidades dos usuários
 * Que problemas seu produto resolve para estes usuários
 * Quais são os objetivos destes usuários com relação ao produto
