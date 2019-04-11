@@ -32,7 +32,7 @@ Se você tem vergonha de declarar seu amor para a Paloma ou pedir para tirar dú
 
 # Personas
 
-![Personas](persona_rede_social.png)
+![Personas](Persona_rede_social.png)
 
 
 
